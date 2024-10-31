@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress' );
+define( 'DB_NAME', 'proyecto2DB' );
 
 /** Database username */
-define( 'DB_USER', 'wpuser' );
+define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'yourpassword' );
+define( 'DB_PASSWORD', 'qBj8jBHB8y6Q4Ss' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'database-2.cnzdojjotubr.us-east-1.rds.amazonaws.com:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
